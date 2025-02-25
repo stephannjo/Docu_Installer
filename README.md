@@ -17,6 +17,10 @@ The POS application is designed to streamline sales processes for businesses, of
 
 ## Getting Started
 
-To get started with the POS application, please refer to the relevant sections in the documentation. Each section provides detailed instructions and information to assist you in successfully installing and configuring the application.
+## Installation
 
-For any questions or support, please refer to the contact information provided in the appendix.
+### **src/prerequisites.md**: Installing 3rd Party Components, run script and prepare the sqlite for POS Setup
+
+### **src/silent-installation.md**: Run silent installer to perform POS Install
+
+### **src/post-installation.md**: Check for valid installation

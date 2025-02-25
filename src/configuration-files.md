@@ -1,3 +1,5 @@
+# ONLY FOR ANALYSIS OR CHANGING SETTINGS AFTER INSTALLATION!
+
 # Configuration Files for POS Application
 
 This document provides detailed explanations of the configuration files used by the POS application, specifically for RabbitMQ settings.

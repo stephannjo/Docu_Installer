@@ -64,3 +64,7 @@ To verify that each component has been installed correctly, perform the followin
 - **RabbitMQ:** Open a web browser and navigate to `http://localhost:15672`. You should see the RabbitMQ management interface.
 - **Retailforce:** Verify that the application is installed in the `c:\eurosuite\\` directory.
 - **JavaPOS Driver:** Verify that the scanner, printer, and till components are functioning correctly.
+
+## configuration.md
+
+## scripts.md
