@@ -60,10 +60,10 @@ Unnecessary fields may be completely removed from the `inst_customize.sqlite`.
 
 #### Table: `instdata`
 
-| Field       | Description                        | Example               | Notes                                                                 |
-|-------------|------------------------------------|-----------------------|-----------------------------------------------------------------------|
-| ID          | key field                          | 1                     | Automatically assigned                                                |
-| actualAddr  | IP-euroCONTROL                     | 10.10.10.40           | IP from euroCONTROL                                                   |
+| Field       | Description                        | Example                   | Notes                                                                 |
+|-------------|------------------------------------|---------------------------|-----------------------------------------------------------------------|
+| ID          | key field                          | 1                         | Automatically assigned                                                |
+| actualAddr  | IP-euroCONTROL                     | 10.10.10.40               | IP from euroCONTROL                                                   |
 | targetDir   | Path of the cash register installation | c:\home\kasse         | Path where the cash register should be installed                      |
 | cygwinDir   | Path for cygwin64                  | c:/eurosuite/cygwin64/bin | Path where the cygwin64 tool is located                               |
 

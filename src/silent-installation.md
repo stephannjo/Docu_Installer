@@ -3,7 +3,7 @@
 ## 4. Silent Installation
 
 ### 4.1 Silent Installation Package
-The silent installation package is located in the `installers` directory and is named `POS_Application_Silent_Installer.exe`.
+The silent installation package is delivered by Zucchetti into a common accessibly gdrive folder
 
 ### 4.2 Command-Line Parameters
 The following command-line parameters are available for the silent installer:
