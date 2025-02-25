@@ -19,8 +19,8 @@ The POS application is designed to streamline sales processes for businesses, of
 
 ## Installation
 
-### **src/prerequisites.md**: Installing 3rd Party Components, run script and prepare the sqlite for POS Setup
+### **1. prerequisites.md**: Installing 3rd Party Components, run script and prepare the sqlite for POS Setup
 
-### **src/silent-installation.md**: Run silent installer to perform POS Install
+### **2. silent-installation.md**: Run silent installer to perform POS Install
 
-### **src/post-installation.md**: Check for valid installation
+### **3. post-installation.md**: Check for valid installation
